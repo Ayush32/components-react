@@ -11,6 +11,7 @@ import faker from "faker";
 const App = () => {
   return (
     <div className="ui container comments">
+      <h1>Cards And Components</h1>
       <ApprovalCard>
         <CommentDetail
           author="Sam"
